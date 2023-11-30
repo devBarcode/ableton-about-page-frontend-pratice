@@ -26,7 +26,7 @@ See the LIVE preview of this project 🌐  [IpsumMusic Preview](https://devbarco
 
 - [Free Photo Assets](https://www.pexels.com/) (Pexels)
 - [Open Source Icons](https://boxicons.com/)  (Boxicons)[^1]
-- [Smol CSS Grid System](https://smolcss.dev/#smol-css-grid)
+- [Smol CSS Grid System]([https://smolcss.dev/#smol-css-grid](https://smolcss.dev/#smol-breakout-grid))
 - [Fluid Type Scale](https://www.fluid-type-scale.com/)
 - [Clamp Calculator](https://utopia.fyi/clamp/calculator/)
 
