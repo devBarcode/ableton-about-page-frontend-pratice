@@ -8,8 +8,9 @@ I'm Michele Quartararo, also know as "**BARCODE**" or "**CODICEaBARRE**" in ital
 
 As I'm learning CSS3 and HTML5 I've decided to test my skills by building a frontend project by the projects given by [Frontend Practice](https://www.frontendpractice.com/projects). I'll add some JavaScript interaction to the project when I'll feel confident enough.
 
-I called this Project "**IpsumMusic**". 
-See the LIVE preview of this project 🌐  [IpsumMusic Preview](https://devbarcode.github.io/ableton-about-page-frontend-pratice/)
+I called this Project "**IpsumMusic**", in the honor of the common Lorem Ipsum system used for placeholder text.
+
+See the LIVE preview here 🌐 [IpsumMusic Preview](https://devbarcode.github.io/ableton-about-page-frontend-pratice/)
 
 ### 👨‍💻 Personal Links
 
